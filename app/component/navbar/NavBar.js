@@ -29,7 +29,7 @@ export default function NavBar() {
                     <Link className="text-white font-Roboto text-base font-semibold hover:bg-[#969595] focus:bg-blue-600 p-4 active:bg-blue-500" href="/about">About</Link>
                     <Link className="text-white font-Roboto text-base font-semibold hover:bg-[#969595] focus:bg-blue-600 p-4 active:bg-blue-500" href="/sermon">Sermon</Link>
                     <Link className="text-white font-Roboto text-base font-semibold hover:bg-[#969595] focus:bg-blue-600 p-4 active:bg-blue-500" href="/team">Team</Link>
-                    <Link className="lg:hidden text-white font-Roboto text-base font-semibold bg-[#03014b] px-3 py-4 rounded-xl" href="/contact">Contact Us</Link>
+                    <Link className="lg:hidden text-white font-Roboto text-base font-semibold bg-[#03014b] px-3 py-6 rounded-xl" href="/contact">Contact Us</Link>
                 </div>
             )}
 
